@@ -1,4 +1,4 @@
-# portals-ecommerce-demo
+# deso-ecommerce-demo
 E-commerce Demo App using Ionic Portals
 
 This is an example application built in iOS and Android. Both are using the same web resources for their Portals.
